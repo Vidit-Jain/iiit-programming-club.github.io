@@ -23,6 +23,12 @@ codeforces:
   - u: vivace_jr
     r: 2235
     name: Arnav Juneja
+  - u: aryan12 
+    r: 2222
+    name: Aryan Maskara
+  - u: ha___il 
+    r: 2220
+    name: Harshil Singh
   - u: devanshg27
     r: 2213
     name: Devansh Gautam
@@ -34,7 +40,7 @@ codeforces:
     name: Tanuj Garg
   - u: orientor
     r: 2203
-    name: Aditya Verma*
+    name: Aditya Verma
 
 atcoder:
   - u: codelegend
@@ -52,6 +58,9 @@ atcoder:
   - u: dixitgarg
     r: 1850
     name: Dixit Garg
+  - u: fangahawk 
+    r: 1800
+    name: Vidit Jain*
 
 codechef:
   - u: pulkit
